@@ -1,0 +1,11 @@
+.gitignore
+.vs
+
+node_modules
+
+packages
+bin
+obj
+package-lock.json
+dist
+vs2017demo.csproj.user
